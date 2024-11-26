@@ -1,1 +1,1 @@
-link: https://BIT--TYJ.github.io
+link: https://TYJ-BIT.github.io
