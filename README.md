@@ -1,1 +1,1 @@
-link: https://BIT-DYN.github.io
+link: https://BIT--TYJ.github.io
